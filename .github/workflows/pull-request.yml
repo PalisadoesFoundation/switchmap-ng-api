@@ -85,6 +85,7 @@ jobs:
             .github/**
             package.json
             package-lock.json
+            yaml.lock
             .gitignore
             .nojekyll
             CODEOWNERS
