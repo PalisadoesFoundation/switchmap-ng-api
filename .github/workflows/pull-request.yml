@@ -90,7 +90,6 @@ jobs:
             CODEOWNERS
             LICENSE
             .coderabbit.yaml
-            ./*.md
             docs/CNAME
             docs/static/CNAME
             docs/package.json
@@ -98,7 +97,6 @@ jobs:
             docs/docusaurus.config.js
             docs/babel.config.js
             docs/tsconfig.json
-            .coderabbit.yaml
             CODE_OF_CONDUCT.md
             CODE_STYLE.md
             CONTRIBUTING.md
