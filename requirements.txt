@@ -1,0 +1,35 @@
+# Miscellaneous
+PyYAML
+
+# Flask Web Server
+Flask
+Flask-Table
+Flask-Testing
+Werkzeug
+gunicorn
+
+# Data and Database
+PyMySQL
+PyMySQL[rsa]
+SQLAlchemy
+pandas
+
+# GraphQL interface for Flask
+graphene-sqlalchemy
+
+# Testing
+mock
+pytest
+
+# Docstring Parser
+docstring_parser
+
+# Other
+more-itertools
+
+#Linting and formatting
+flake8
+flake8-docstrings
+pydocstyle
+black
+docstring_parser
