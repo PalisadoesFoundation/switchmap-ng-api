@@ -16,7 +16,6 @@ pandas
 
 # GraphQL interface for Flask
 graphene-sqlalchemy
-graphql_server
 
 # Testing
 mock
